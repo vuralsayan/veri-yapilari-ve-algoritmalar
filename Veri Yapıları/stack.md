@@ -4,4 +4,6 @@
 
 - Yığınlara eleman eklerken veya çıkartırken bazı methodlar uygulanır. Bunlardan biri **Push**, diğeri ise **Pop**. **Push**, yığının üzerine eleman eklemek için kullanılır (Koliye kitap koymak). **Pop** ise, yığından eleman çıkarmak için kullanılır.
 
-Diğer bir örnek olarak bir yemekhanedeki yıkanmak için üst üste konulan kirli tabak yığınını ele alabilirz. Gelen kirli tabaklar LIFO mantığına dayanarak yerleştirilir yani en son gelen kirli tabak yıkanmak için yığından ilk çıkar.
+Diğer bir örnek olarak bir yemekhanedeki yıkanmak için üst üste konulan kirli tabak yığınını ele alabilirz. Gelen kirli tabaklar LIFO mantığına dayanarak yerleştirilir yani en son gelen kirli tabak yıkanmak için yığından ilk çıkar. <br>
+
+ ***Stacklerde eklenen yer ve çıkarılan yer aynıdır.***
