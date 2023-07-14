@@ -1,2 +1,2 @@
 # veri-yapilari-ve-algoritmalar
-Patika.dev Veri Yapıları ve Algoritmalar Notları
+Patika.dev ve BTK Akademi Veri Yapıları ve Algoritmalar Notları
