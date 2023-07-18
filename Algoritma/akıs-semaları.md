@@ -10,7 +10,7 @@ Akış şemasının nerede başladığını ve nerede bittiğini göstermek içi
 ### İşlem
 Aritmetik, analitik ya da mantıksal herhangi hesaplama ya da atama işlemi yapmak için kullanılır. Sembol içerisine akışın o adımına gelindiğinde uygulanması gereken işlem ifadeleri yazılır.
 
-<img src="../Images/islem.webp" alt="" width="300" height="180"> <br>
+<img src="../Images/islem.webp" alt="işlem" width="300" height="180"> <br>
 
 ### Veri(Girdi/Çıktı)
 Bilgi girişlerini ya da elde edilecek sonuçları gösteren semboldür.
