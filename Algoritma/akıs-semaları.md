@@ -5,7 +5,7 @@ Akış Şemaları projelerde herhangi bir sorunun çözümü için izlenecek yol
 ### Başla & Dur
 Akış şemasının nerede başladığını ve nerede bittiğini göstermek için kullanılır. Sembolün içine “Başlangıç” ve “Bitiş” gibi belirleyici ifadeler eklerseniz şemanın daha anlaşılır olmasını sağlayabilirsiniz.
 
-<img src="../Images/basla-dur.webp" alt="" width="300" height="180"> <br>
+<img src="../Images/basla-dur.webp" alt="basla-dur" width="300" height="180"> <br>
 
 ### İşlem
 Aritmetik, analitik ya da mantıksal herhangi hesaplama ya da atama işlemi yapmak için kullanılır. Sembol içerisine akışın o adımına gelindiğinde uygulanması gereken işlem ifadeleri yazılır.
